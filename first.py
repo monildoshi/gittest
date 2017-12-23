@@ -2,4 +2,7 @@
 
 
  def test():
- 	print 'Hello World'
+ 	print "Hello World to All"
+ 	print "Hello Python 2"
+
+ test()
